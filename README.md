@@ -2,6 +2,8 @@
 
 This project provides an enhanced drawing experience based on the fantastic [Excalidraw](https://excalidraw.com/) library. It allows users to create, save, load, and manage multiple drawing scenes directly in their browser using local IndexedDB storage.
 
+This exists because I was too cheap to pay for [excalidraw plus](https://plus.excalidraw.com/pricing) ;)
+
 ## Features
 
 - **Core Excalidraw Experience:** Leverages the powerful and intuitive drawing capabilities of Excalidraw.
